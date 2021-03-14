@@ -4,5 +4,6 @@ pink
 orange 
 blue 
 green
+yellow
 red
 this is the color of the poem
